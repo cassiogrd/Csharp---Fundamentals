@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.09 - While", "1.09 - Whil
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.10 - break continue", "1.10 - break continue\1.10 - break continue.csproj", "{5E76BA76-50B3-456D-8316-AE9AE4DEF5F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.11 - Constants", "1.11 - Constants\1.11 - Constants.csproj", "{DF9ADDCD-772C-4EA4-BDD8-AD50E4EF8191}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{5E76BA76-50B3-456D-8316-AE9AE4DEF5F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E76BA76-50B3-456D-8316-AE9AE4DEF5F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E76BA76-50B3-456D-8316-AE9AE4DEF5F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF9ADDCD-772C-4EA4-BDD8-AD50E4EF8191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF9ADDCD-772C-4EA4-BDD8-AD50E4EF8191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF9ADDCD-772C-4EA4-BDD8-AD50E4EF8191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF9ADDCD-772C-4EA4-BDD8-AD50E4EF8191}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
